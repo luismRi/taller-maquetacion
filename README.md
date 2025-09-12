@@ -4,4 +4,4 @@ Repositorios del Taller de maquetación para la landing page de prtafolio-CV pro
 
 ## Proyectos
 
-- [Landing Page de tipo Portafolio-CV]
+- [Landing Page de tipo Portafolio-CV]luismRi.github.io/taller-maquetacion/portafolio-CV
