@@ -233,6 +233,11 @@ p {
   fill: var(--first-color);
 }
 
+.logo-nuevo {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
 .modal#gracias:target {
   opacity: 1;
   pointer-events: auto;
